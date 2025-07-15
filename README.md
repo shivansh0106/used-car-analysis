@@ -1,9 +1,9 @@
 
-# Used Cars Market Analysis 🚗🏎🚔
+# Used Cars Market Analysis
 
 This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI. 📊📉📈
 
-## Dataset 📂
+## Dataset 
 
 The data is from CarDekho Used Car Dataset available on Kaggle, containing 15411 vehicle listings. 
 The columns are :
@@ -21,7 +21,7 @@ The columns are :
 12. seats - int 
 13. selling_price - int
 
-## Skills 🔨
+## Skills 
 
 1. MySQL
 2. Power BI
@@ -31,7 +31,7 @@ The columns are :
 6. Data Cleaning
 7. Dashboard Design
    
-## Analysis 📊💡🔎
+## Analysis
 
 1. Ferrari brand has the highest avg selling price of 3,95,00,000 INR while Datsun brand has the lowest average selling price of 320518 INR for pre-owned cars. 🚘💵
 
